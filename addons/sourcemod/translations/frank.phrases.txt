@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"Rank_Menu"
+	{
+		"en"		"Rank System By Miz71K"
+		"zho"		"選擇你的牌位:"
+	}
+	"Rank_Set"
+	{
+		"en"		"Your rank is "
+		"zho"		"你的牌位現在是 "
+	}
+	"ProfileRank_Menu"
+	{
+		"en"		"Level System By Miz71K"
+		"zho"		"選擇你的個人檔案等級:"
+	}
+	"ProfileRank_Set"
+	{
+		"en"		"Your level is "
+		"zho"		"你的個人檔案等級現在是 "
+	}
+	"Coin_Menu"
+	{
+		"en"		"Coin System By Miz71K"
+		"zho"		"選擇你的徽章:"
+	}
+	"Coin_Set"
+	{
+		"en"		"Your coin is "
+		"zho"		"你的徽章現在是 "
+	}
+}
